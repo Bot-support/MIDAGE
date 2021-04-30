@@ -13,7 +13,7 @@
 
 <summary> special thanks </summary>
 
-<b>[OXICLIC](https://t.me/Itz_oxiOp)</b>
+<b>[OXILIC](https://t.me/Itz_oxiOp)</b>
 
 <b>[AMAN](https://t.me/AmanPandeyDeveloperIN)</b>
 
