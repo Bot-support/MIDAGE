@@ -1,6 +1,6 @@
 # ⚜️𝗠𝗜𝗗𝗔𝗚𝗘⚜️
 
-
+<img src="https://telegra.ph/file/a1cd072881bb30668b09d.jpg"/>
 
 ## ⚡Deploy⚡
 
@@ -13,7 +13,7 @@
 
 
 
-<img src=""/>
+
 
 <details>
 
