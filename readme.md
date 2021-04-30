@@ -25,7 +25,7 @@
 
 <b>[BLAZE](https://t.me/blaze_opoo)</b>
 
-<b>[HIT](@UnknownHackerOO1)</b>
+<b>[HIT](https://t.me/UnknownHackerOO1)</b>
 
 <h1>#TEAMPATRICIA</h1>
 
