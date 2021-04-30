@@ -4,7 +4,10 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bot-support/MIDAGE)
 
-[![repl.it](https://https://repl.it/button.svg)]
+
+## STRING SESSION
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://repl.it/@Botsupport/MIDAGE?v=1.com)
+
 
 
 <img src=""/>
