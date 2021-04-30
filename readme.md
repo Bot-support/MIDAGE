@@ -4,7 +4,7 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bot-support/MIDAGE)
 
-
+[![repl.it](https://https://repl.it/@Botsupport/MIDAGE?v=1.com/repl/button.svg)]
 
 
 <img src=""/>
