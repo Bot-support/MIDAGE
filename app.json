@@ -1,7 +1,7 @@
 {
-  "name": "𝙰𝚁𝙲𝙰𝙽𝙴 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ",
+  "name": "𝙼𝙸𝙳𝙰𝙶𝙴 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ",
   "description": "The best userbot made by @Arcane_Devs. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @Arcane_Bot_Support",
-  "logo": "https://telegra.ph/file/91d386b1f7db6c76abf80.jpg",
+  "logo": "https://telegra.ph/file/ab1e1a35fa47394bcd308.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Arcane120/ArcaneOpBot/",
-  "website": "https://github.com/Arcane120/ArcaneOpBot/",
-  "success_url": "https://t.me/Arcane_Bot_Support",
+  "repository": "https://github.com/Bot-support/MIDAGE/",
+  "website": "https://github.com/Bot-support/MIDAGE/",
+  "success_url": "https://t.me/Midage_Support",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -29,12 +29,12 @@
     },
     "BOT_NICK_NAME": {
       "description": "YOU CAN SET HERE YOUR BOT CUSTOM NAME LIKE PRO BOT SUPER BOT etc..",
-      "value": "ARCANE BOT",
+      "value": "MIDAGE BOT",
       "required": false
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @Arcane.",
-      "value": "ARCANE",
+      "value": "MIDAGE",
       "required": false
     },
     "ALIVE_MSG": {
@@ -44,7 +44,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "put here any telegraph media link use .awake to show.",
-      "value": "https://telegra.ph/file/b41aa4854181efbc9e354.jpg",
+      "value": "https://telegra.ph/file/ab1e1a35fa47394bcd308.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -173,7 +173,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "✨",
+      "value": "💕",
       "required": true
     }, 
     "TZ": {
