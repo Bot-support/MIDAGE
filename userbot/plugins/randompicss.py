@@ -2,7 +2,7 @@
 
 # Kangers keep credits
 
-# By DEVIL in devil userbot
+# By MIDAGE in devil userbot
 
 
 

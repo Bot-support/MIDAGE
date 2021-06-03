@@ -29,7 +29,7 @@ pbot = Client("BLAZE", api_id=API_ID, api_hash=API_HASH, bot_token=token)
 BOT = str(botnickname) if botnickname else "MIDAGE BOT"
 NAME = str(ALIVE_NAME) if ALIVE_NAME else "MIDAGE USER"
 PHOTO = os.environ.get("ALIVE_PHOTTO", None)
-DEVIL = "[BLAZE](https://t.me/PIROXPOWER)"
+MIDAGE = "[BLAZE](https://t.me/PIROXPOWER)"
 VERSION = "3.1.5"
 REPO = "[MIDAGE BOT](https://github.com/bot-support/MIDAGE)"
 PRO = bot.uid

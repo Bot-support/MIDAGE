@@ -7,14 +7,14 @@ from userbot import bot
 from userbot.utils import admin_cmd
 
 bot = "@MissRose_bot"
-DEVIL = NAME
+MIDAGE = NAME
 
 
 @borg.on(admin_cmd("fstat ?(.*)"))
 async def _(event):
     if event.fwd_from:
         return
-    ok = await event.edit(f"**CHECKING BY {DEVIL}**...")
+    ok = await event.edit(f"**CHECKING BY {MIDAGE}**...")
     if event.reply_to_msg_id:
         previous_message = await event.get_reply_message()
         sysarg = str(previous_message.sender_id)
@@ -41,7 +41,7 @@ async def _(event):
                     await borg.send_file(
                         event.chat_id,
                         audio,
-                        caption=f"List of feds {user} has been banned in.\n\nFSTATS CHECKED BY {DEVIL} 🔥\n\nCollected by 𝙼𝙸𝙳𝙰𝙶𝙴  ฿ø₮.",
+                        caption=f"List of feds {user} has been banned in.\n\nFSTATS CHECKED BY {MIDAGE} 🔥\n\nCollected by 𝙼𝙸𝙳𝙰𝙶𝙴  ฿ø₮.",
                     )
                 else:
                     await borg.send_message(event.chat_id, audio.text)
